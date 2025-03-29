@@ -1,7 +1,7 @@
 ﻿"use strict";
 
 {
-  const C3 = globalThis.C3;
+ // const C3 = globalThis.C3;
   globalThis.C3.Plugins.Massive_Cube_Rex_CSV2Array.Acts = {
     CSV2Array(csv_string, array_objs, map_mode, zIndex) {
       //assert2(globalThis.C3.Plugins.Arr, "[CSV2Array] Error:No Array object found.");
